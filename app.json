@@ -28,9 +28,9 @@
     },
     "extra": {
       "eas": {
-        "projectId": "6c6e967c-05fe-476b-b261-05af9e1090b1",
-        "owner": "snehasishkun"
+        "projectId": "6c6e967c-05fe-476b-b261-05af9e1090b1"
       }
-    }
+    },
+    "owner": "snehasishkun"
   }
 }
